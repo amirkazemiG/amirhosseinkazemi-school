@@ -1,0 +1,30 @@
+html{
+    direction: rtl;
+}
+.p1,.p2,.p3{
+    display: inline-block; font-family:'Times New Roman', Times, serif ; font-size: 18px;
+}
+.p1{
+text-align: right;
+}
+.p2{
+margin-right: 100px;
+}
+.p3{
+ margin-right:80px;
+}
+h2{
+    font-family: sans-serif;
+}
+.text{
+    font-family: sans-serif; font-size: 14px; line-height: 30px; font-weight: 400;
+}
+.img{
+    margin-right: 700px;
+}
+.bio{
+    font-weight: 800; font-size: 18px;
+}
+.img2{
+    height: 400px; display: inline; margin-top: -330px; width: 500px; object-fit: contain;
+}
